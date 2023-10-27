@@ -36,7 +36,7 @@ CogBot is a Discord bot project built using the `nextcord` library, designed wit
 
 2. **Environment Variables:** Set up the following environment variables:
 
-- `**APP_VERSION:**` Version of the bot.
+- **APP_VERSION:** Version of the bot.
 - **APP_NAME:** Name of the bot.
 - **APP_LOGGING_LEVEL** Debug level of the bot
 - **DISCORD_TOKEN** Your bots token
