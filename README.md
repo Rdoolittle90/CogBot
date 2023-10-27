@@ -36,13 +36,13 @@ CogBot is a Discord bot project built using the `nextcord` library, designed wit
 
 2. **Environment Variables:** Set up the following environment variables:
 
-   - **APP_VERSION:** Version of the bot.
-   - **APP_NAME:** Name of the bot.
-   - **APP_LOGGING_LEVEL** Debug level of the bot
-   - **DISCORD_TOKEN** Your bots token
-   - **OPEN_AI_TOKEN** Your OpenAI API token
-   - **IMGUR_CLIENT_ID** Your Imgur client ID
-   - **IMGUR_CLIENT_SECRET** Your Imgur client Secret
+- **APP_VERSION:** Version of the bot.
+- **APP_NAME:** Name of the bot.
+- **APP_LOGGING_LEVEL** Debug level of the bot
+- **DISCORD_TOKEN** Your bots token
+- **OPEN_AI_TOKEN** Your OpenAI API token
+- **IMGUR_CLIENT_ID** Your Imgur client ID
+- **IMGUR_CLIENT_SECRET** Your Imgur client Secret
 
 3. **Adding Cogs:** Navigate to the `src/cogs` directory and drop any cogs you want to include. The bot will automatically load them on startup.
 
